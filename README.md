@@ -11,7 +11,7 @@
 
 🎓️ Atualmente estou no 6º período da graduação em  Engenharia da Computação, e tento expor projetos relevantes que desenvolvi durante minha trajetória.
 
-🇺🇸 hello, this is an english translation of the comments above
+🇺🇸 Hello, this is an english translation of the comments above
 
 💻 I'm student of Computer engineering on the Federal University of Uberlândia and member voluntary on Forensic lab.
 
