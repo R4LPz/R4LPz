@@ -3,7 +3,7 @@
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lucas-pereira-350590186/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pereira.rafael.dev@gmail.com)
 
- 💻 Sou estudante de Engenharia da Computação na Universidade Federal de Uberlândia emembro voluntário do Laboratório de Computação Forense.
+ 💻 Sou estudante de Engenharia da Computação na Universidade Federal de Uberlândia e membro voluntário do Laboratório de Computação Forense.
 
 🤓 Entusiasta em áreas como desenvolvimento de Sistemas web e mobile com *Node, React e React Native*, processos de *IOT* e *construção de hardware*, e principalmente Segurança da informação voltada para testes de intrusão e computação forense.
 
