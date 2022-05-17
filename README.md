@@ -1,23 +1,26 @@
+## 🤓 Sobre mim
 
-# Rafael Lucas Pereira
+Meu nome é Rafael Lucas e sou de Uberlândia, MG - Brasil. Me interesso por tecnologia desde 2016. Atualmente estou finalizando a graduação em Engenharia da computação na UFU e focado meus estudos em desenvolvimento de sistemas e segurança ofensiva.
 
-[![Linkedin](https://img.shields.io/badge/-Rafael%20Lucas%20Pereira-007bb6?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lucas-pereira-350590186/) [![Gmail](https://img.shields.io/badge/-pereira.rafael.dev@gmail.com-da4d39?style=flat-square&logo=Gmail&logoColor=white)](mailto:pereira.rafael.dev@gmail.com) [![Twitter](https://img.shields.io/badge/-@Rafael_LucasP-00aced?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rafael_LucasP)
+## 🧑‍💻 Ferramentas que uso frequentemente
 
+**Linguagens**
 
- 💻 Estudante de Engenharia da Computação na Universidade Federal de Uberlândia e membro voluntário do Laboratório de Computação Forense.
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 
-🤓 Entusiasta em áreas como desenvolvimento de Sistemas web e mobile com *Node, React e React Native*, processos de *IOT* e *construção de hardware*, e principalmente Segurança da informação voltada para testes de intrusão e computação forense.
+## 📚 atualmente aprendendo
 
-📚 Atualmente estou lendo e estudando sobre *Cloud Computing* (AWS), *Segurança de sistemas e testes de invasão* (Georgia Weidman), entrando no universo *Python* voltado para processamento de sinais e desenvolvimento de ferramentas para Pentest.
+- Python
+- AWS
+- Redes e Sistemas operacionais
+- Red Team
 
-🎓️ Atualmente estou no 6º período da graduação em  Engenharia da Computação, e tento expor projetos relevantes que desenvolvi durante minha trajetória.
+## 📫 contatos
 
-### 🇺🇸 Hello, this is an english translation of the comments above
-
-💻 I'm student of Computer engineering on the Federal University of Uberlândia and member voluntary on Forensic lab.
-
-🤓 Enthusiast in areas such as web and mobile development with node, React and React native, hardware construction and iot processes, and mainly cybersecurity turned to Penetration tests and forensic expertise
-
-📚 I am currently learning and studying  Cloud computing (AWS), Systems security and pentest and entering in universe python facing signal processing e pentest tools development
-
-🎓️ I am currently in the 6º undergraduate period and I try to expose here relevant projects that I developed during my journey
+[![Linkedin](https://img.shields.io/badge/-Rafael%20Lucas%20Pereira-007bb6?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lucas-pereira-350590186/) 
+[![Gmail](https://img.shields.io/badge/-pereira.rafael.dev@gmail.com-da4d39?style=flat-square&logo=Gmail&logoColor=white)](mailto:pereira.rafael.dev@gmail.com) 
+[![Twitter](https://img.shields.io/badge/-@Rafael_LucasP-00aced?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rafael_LucasP)
