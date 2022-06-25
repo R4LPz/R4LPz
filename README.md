@@ -16,7 +16,7 @@ Meu nome é Rafael Lucas e sou de Uberlândia, MG - Brasil. Me interesso por tec
 - Python
 - AWS
 - Redes e Sistemas operacionais
-- Red Team
+- Segurança em sistemas web
 
 ## 📫 contatos
 
