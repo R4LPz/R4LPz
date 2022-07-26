@@ -1,25 +1,57 @@
-## 🤓 Sobre mim
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereira.rafael.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lucas-pereira/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rafael_LucasP)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
-Meu nome é Rafael Lucas e sou de Uberlândia, MG - Brasil. Me interesso por tecnologia desde 2016. Atualmente estou finalizando a graduação em Engenharia da computação na UFU e focado meus estudos em desenvolvimento de sistemas e segurança ofensiva.
+```
+*****************************************************************************************
+*              _   _      _ _         _____     _                _    _                 *
+*             | | | | ___| | | ___   |  ___| __(_) ___ _ __   __| |  | |                *
+*             | |_| |/ _ \ | |/ _ \  | |_ | '__| |/ _ \ '_ \ / _` |  | |                *
+*             |  _  |  __/ | | (_) | |  _|| |  | |  __/ | | | (_| |  |_|                *
+*             |_| |_|\___|_|_|\___/  |_|  |_|  |_|\___|_| |_|\__,_|  (_)                *
+*                                                                                       *
+*****************************************************************************************
 
-## 🧑‍💻 Ferramentas que uso frequentemente
+I'm a Computer Engineering student, passionate about Programming and Hacking!
 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+Currently, i have studying about:
 
-## 📚 atualmente aprendendo
+[+] Python development 
+[+] Cloud infrasctructure
+[+] Linux and Networks
+[+] Penetration Testing
 
-- Python
-- AWS
-- Redes e Sistemas operacionais
-- Segurança em sistemas web
+In my day to day, I have programmed in Python,but in my repositories, you can see other languages like JavaScript and Java.
 
-## 📫 contatos
+I've been playing some CTF's like OverTheWire. On my profile, you can find some writeups and annotations of concepts that I have been using to solve them.
 
-[![Linkedin](https://img.shields.io/badge/-Rafael%20Lucas%20Pereira-007bb6?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lucas-pereira-350590186/) 
-[![Gmail](https://img.shields.io/badge/-pereira.rafael.dev@gmail.com-da4d39?style=flat-square&logo=Gmail&logoColor=white)](mailto:pereira.rafael.dev@gmail.com) 
-[![Twitter](https://img.shields.io/badge/-@Rafael_LucasP-00aced?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Rafael_LucasP)
+In my spare time, I really like to draw and build things with electronics!
+
+If you want to contact me, you can access one of the networks above!
+
+~ RockMasterBlack
+
+```
+
+---
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+
+
+
