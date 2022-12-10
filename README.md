@@ -3,7 +3,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pereira.rafael.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-lucas-pereira/)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Rafael_LucasP)
-![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
 </div>
 
@@ -30,14 +29,12 @@ Currently, i have studying about:
 In my day to day, I have programmed in Python,but in my repositories, you can see other languages 
 like JavaScript and Java.
 
-I've been playing some CTF's like OverTheWire. On my profile, you can find some writeups and 
+I've been playing some CTF's like TryHackMe and OverTheWire. On my profile, you can find some writeups and 
 annotations of concepts that I have been using to solve them.
-
-In my spare time, I really like to draw and build things with electronics!
 
 If you want to contact me, you can access one of the networks above!
 
-~ RockMasterBlack
+~ 0xRlP
 ```
 
 ---
