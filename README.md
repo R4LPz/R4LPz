@@ -8,6 +8,8 @@
 
 
 ```
+0xRlP@home:~$ ./scan.sh
+
 *******************************************************************************************************
 *                      _   _      _ _         _____     _                _    _                       *
 *                     | | | | ___| | | ___   |  ___| __(_) ___ _ __   __| |  | |                      *
@@ -17,24 +19,21 @@
 *                                                                                                     *
 *******************************************************************************************************
 
-My name is Rafael Lucas and I'm a Computer Engineering student, passionate about Programming and Hacking!
+Target  <[ 0xRlP ]>
+Starting scan ...
 
-Currently, i have studying about:
+[+] Complete graduation found :::::::::::: [Technician in electrical engineering]
+[+] Incomplete graduation found :::::::::: [Computer Engineering]
+[!] WARNING :::::::::::::::::::::::::::::: High degree of curiosity found
+[+] Computer skills found :::::::::::::::: [Penetration testing, web and mobile hacking, application development]
+[+] Programming languages found :::::::::: [C, Java, Python, Javascript, Shell script]
+[-] Fail ::::::::::::::::::::::::::::::::: Interests were found in hardware with low levels of knowledge 
+[*] Generating results ::::::::::::::::::: Complete - Time 00:00:00
+[*] Resume ------------------------------> Script kid looking to learn and improve every day
 
-[+] Python development 
-[+] Cloud infrasctructure
-[+] Linux and Networks
-[+] Penetration Testing
+Scan completed!
 
-In my day to day, I have programmed in Python,but in my repositories, you can see other languages 
-like JavaScript and Java.
-
-I've been playing some CTF's like TryHackMe and OverTheWire. On my profile, you can find some writeups and 
-annotations of concepts that I have been using to solve them.
-
-If you want to contact me, you can access one of the networks above!
-
-~ 0xRlP
+0xRlP@home:~$ █
 ```
 
 ---
