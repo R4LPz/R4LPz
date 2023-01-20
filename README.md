@@ -7,7 +7,7 @@
 
 
 ```
-0xRlP@home:~$ ./scan.sh
+R4LPz@home:~$ ./scan.sh
 
 *******************************************************************************************************
 *                      _   _      _ _         _____     _                _    _                       *
@@ -18,7 +18,7 @@
 *                                                                                                     *
 *******************************************************************************************************
 
-Target  <[ 0xRlP ]>
+Target  <[ R4LPz ]>
 Starting scan ...
 
 [+] Complete graduation found :::::::::::: [Technician in electrical engineering]
@@ -32,7 +32,7 @@ Starting scan ...
 
 Scan completed!
 
-0xRlP@home:~$ █
+R4LPz@home:~$ █
 ```
 
 ---
